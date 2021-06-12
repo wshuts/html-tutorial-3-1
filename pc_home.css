@@ -26,3 +26,14 @@ nav.horizontalNavigation a {
     display: block;
     text-align: center;
 }
+
+section#leftColumn {
+    clear: left;
+    float: left;
+    width: 33%;
+}
+
+section#rightColumn {
+    float: left;
+    width: 67%;
+}
