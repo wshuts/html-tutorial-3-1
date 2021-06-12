@@ -47,3 +47,17 @@ section#rightColumn img {
 section#rightColumn > nav.horizontalNavigation li {
     width: 25%;
 }
+
+footer {
+    clear: left;
+}
+
+nav.verticalNavigation {
+    float: left;
+    width: 22%;
+}
+
+section#contactInfo {
+    float: left;
+    width: 34%;
+}
