@@ -12,3 +12,12 @@ body > header > img {
     display: block;
     width: 100%;
 }
+
+body > header > nav.horizontalNavigation li {
+    width: 20%;
+}
+
+nav.horizontalNavigation li {
+    display: block;
+    float: left;
+}
