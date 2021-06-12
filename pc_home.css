@@ -50,6 +50,7 @@ section#rightColumn > nav.horizontalNavigation li {
 
 footer {
     clear: left;
+    background-color: rgb(71, 52, 29);
 }
 
 nav.verticalNavigation {
