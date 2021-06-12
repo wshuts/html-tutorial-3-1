@@ -62,3 +62,9 @@ section#contactInfo {
     float: left;
     width: 34%;
 }
+
+footer::after {
+    clear: both;
+    content: "";
+    display: table;
+}
